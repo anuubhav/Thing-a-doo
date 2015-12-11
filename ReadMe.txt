@@ -1,4 +1,4 @@
-#Thingadoo
+# Thingadoo
 
 This desktop Java app was designed to help people find exciting new activities around them to do and share on a Friday night, or gain familiarity and excitement when visiting a new location.
 
